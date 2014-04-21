@@ -3,6 +3,7 @@ import junit.framework.TestSuite;
 
 /**
  * TestSuite that runs all the sample tests
+ * 4th Commit
  */
 public class TestAll {
     public static void main(String[] args) {
