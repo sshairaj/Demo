@@ -13,6 +13,7 @@ public class Money implements IMoney {
     public Money(int amount, String currency) {
         fAmount = amount;
         fCurrency = currency;
+        System.out.println("Hello World!");
     }
 
     /**
